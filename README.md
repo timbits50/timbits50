@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timbits50
 - 👀 I’m interested in Home Automation 
-- 🌱 I’m currently learning how to setup Home Assistant (VirtualBox VM) and going through the configuration of all the add-ons and extra applications
+- 🌱 I’m currently learning how to setup Home Assistant (HA OS on RPi5) and going through the configuration of all the add-ons and extra applications
 - 💞️ I’m looking to collaborate on building a persomal Home Assistant instance
 - 📫 How to reach me - timbits50@gmail.com
 
